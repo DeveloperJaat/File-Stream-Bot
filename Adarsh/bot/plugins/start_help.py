@@ -130,7 +130,7 @@ async def help_handler(bot, message):
 ┣⪼<b>ɴᴀᴍᴇ : ꜰɪʟᴇ sᴛʀᴇᴀᴍ ʙᴏᴛ</b>
 ┣⪼<b>ꜱᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
-┣⪼<b>ᴜᴘᴅᴀᴛᴇꜱ : <a href='https://telegram.me/All_bot_channel'>ʀᴀʜᴜʟ ʀᴇᴠɪᴇᴡꜱ</a></b>
+┣⪼<b>ᴜᴘᴅᴀᴛᴇꜱ : <a href='https://telegram.me/All_bot_channel'>ʙᴏᴛ ᴜᴘᴅᴀᴛᴇꜱ</a></b>
 ┣⪼<b>ꜱᴜᴘᴘᴏʀᴛ : <a href='http://telegram.me/All_botz_support'>ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜱᴜᴘᴘᴏʀᴛ</a></b>
 ┃
 <b>╰━━━━〔ᴘʟᴇᴀꜱᴇ sᴜᴘᴘᴏʀᴛ〕</b>""",
