@@ -29,7 +29,8 @@ class Var(object):
     
     else:
         ON_HEROKU = False
-    FQDN = str(getenv('sunny-beverlee-magicaroma-b6a9e97f.koyeb.app', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
+    FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
+    FQDN = "sunny-beverlee-magicaroma-b6a9e97f.koyeb.app"
     HAS_SSL=bool(getenv('HAS_SSL', True))
     if HAS_SSL:
         URL = "https://{}/".format(FQDN)
